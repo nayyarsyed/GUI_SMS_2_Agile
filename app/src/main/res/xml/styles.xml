@@ -1,0 +1,7 @@
+<resources>
+    <style name="MyTimePickerTheme" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorAccent">@color/my_color</item>
+        <item name="android:colorControlActivated">@color/my_color</item>
+        <item name="android:colorControlHighlight">@color/my_color</item>
+    </style>
+</resources>

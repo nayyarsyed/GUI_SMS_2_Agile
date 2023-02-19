@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GUI_SMS_2_Agile</string>
+    <string name="schedule">Schedule</string>
+    <string name="cancel">Cancel</string>
+</resources>
